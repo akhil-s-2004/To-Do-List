@@ -1,0 +1,7 @@
+.dot {
+  display: inline-block;
+
+  flex-shrink: 0;
+
+  border-radius: 35%;
+}
